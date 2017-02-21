@@ -22,42 +22,29 @@
 
 
 @font-face {
-  font-family: Roboto;
-  src: url("../../fonts/Roboto-Bold.woff2?v=1.1.0") format("woff2"), url("../../fonts/Roboto-Bold.woff?v=1.1.0") format("woff"), url("./fonts/Bold/Roboto-Bold.ttf?v=1.1.0") format("truetype");
-  font-weight: bold;
-  font-style: normal;
-
-  }
-
-
-
-
-
-@font-face {
-    font-family: 'aldrichregular';
-    src: url('../../fonts/aldrich-regular-webfont.eot');
-    src: url('../../fonts/aldrich-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../../fonts/aldrich-regular-webfont.woff2') format('woff2'),
-         url('../../fonts/aldrich-regular-webfont.woff') format('woff'),
-         url('../../fonts/aldrich-regular-webfont.ttf') format('truetype');
+    font-family: 'zona_probold';
+    src: url('../../fonts/zonapro-bold-webfont.eot');
+    src: url('../../fonts/zonapro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/zonapro-bold-webfont.woff') format('woff'),
+         url('../../fonts/zonapro-bold-webfont.ttf') format('truetype'),
+         url('../../fonts/zonapro-bold-webfont.svg#zona_probold') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 
-
-
 @font-face {
-    font-family: 'anonymous_proregular';
-    src: url('../../fonts/anonymouspro-regular-webfont.eot');
-    src: url('../../fonts/anonymouspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../../fonts/anonymouspro-regular-webfont.woff2') format('woff2'),
-         url('../../fonts/anonymouspro-regular-webfont.woff') format('woff'),
-         url('../../anonymouspro-regular-webfont.ttf') format('truetype');
+    font-family: 'zona_proregular';
+    src: url('../../fonts/zonapro-regular-webfont.eot');
+    src: url('../../fonts/zonapro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/zonapro-regular-webfont.woff') format('woff'),
+         url('../../fonts/zonapro-regular-webfont.ttf') format('truetype'),
+         url('../../fonts/zonapro-regular-webfont.svg#zona_proregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
+
 
 
 
